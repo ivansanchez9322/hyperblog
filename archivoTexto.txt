@@ -8,6 +8,7 @@ tenemos un ajuste en el texto plano
 Mi nombre es: Iván González
 Tengo: 30 años
 
+Vivio en Estado de Mexico, en municipio de Ixtapaluca
 
 
 Saludos, cordiales.
